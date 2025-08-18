@@ -1,0 +1,39 @@
+🚀 Test started...
+Opened Flipkart homepage.
+Clicked login button.
+❌ Error: no such element: Unable to locate element: {"method":"xpath","selector":"//input[@class='_2IX_2- VJZDxU']"}
+  (Session info: chrome=139.0.7258.68)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.34.0', revision: '2a4c61c498'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.7'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [10c98f742136f94bae0c6bd2cd8a24da, findElement {using=xpath, value=//input[@class='_2IX_2- VJZDxU']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 139.0.7258.68, chrome: {chromedriverVersion: 139.0.7258.66 (a62d32994769..., userDataDir: C:\Users\hp\AppData\Local\T...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:58976}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:58976/devtoo..., se:cdpVersion: 139.0.7258.68, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 10c98f742136f94bae0c6bd2cd8a24da
+🛑 Test finished.
+🚀 Test started...
+Opened Flipkart homepage.
+Clicked login button.
+❌ Error: no such element: Unable to locate element: {"method":"xpath","selector":"//input[@class='_2IX_2- VJZDxU']"}
+  (Session info: chrome=139.0.7258.68)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.34.0', revision: '2a4c61c498'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.7'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [9ed348db41aa6210b315a6f317b1ca21, findElement {using=xpath, value=//input[@class='_2IX_2- VJZDxU']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 139.0.7258.68, chrome: {chromedriverVersion: 139.0.7258.66 (a62d32994769..., userDataDir: C:\Users\hp\AppData\Local\T...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:59042}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:59042/devtoo..., se:cdpVersion: 139.0.7258.68, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 9ed348db41aa6210b315a6f317b1ca21
+🛑 Test finished.
+🚀 Test started...
+Opened Flipkart homepage.
+Clicked login button.
+❌ Error: no such element: Unable to locate element: {"method":"xpath","selector":"//input[@class='_2IX_2- VJZDxU']"}
+  (Session info: chrome=139.0.7258.68)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.34.0', revision: '2a4c61c498'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.7'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [a491b8dcf9aaece26a0371b51773668a, findElement {using=xpath, value=//input[@class='_2IX_2- VJZDxU']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 139.0.7258.68, chrome: {chromedriverVersion: 139.0.7258.66 (a62d32994769..., userDataDir: C:\Users\hp\AppData\Local\T...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:59184}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:59184/devtoo..., se:cdpVersion: 139.0.7258.68, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: a491b8dcf9aaece26a0371b51773668a
+🛑 Test finished.
